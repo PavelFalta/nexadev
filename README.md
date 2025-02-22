@@ -2,7 +2,8 @@
 
 ## **www.nexadev.cz**
 
-A simple but modern, responsive portfolio website I put together in like a day or so. 
+A simple but modern, responsive portfolio website I put together in like a day or so,
+to get familiar with some aspects of design, deployment and all that.
 
 ---
 
