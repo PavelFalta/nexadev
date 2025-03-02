@@ -45,7 +45,7 @@ The site is designed to be highly responsive and visually appealing, with a focu
 
 ## Usage
 
-With some basic knowledge you could probably easily customize for your own needs.
+With some basic knowledge you could easily customize for your own needs.
 The CSS (found in `App.css`) provides a somewhat solid foundation that you can further tweak for personalization.
 
 ---
